@@ -1,12 +1,5 @@
 ## 🔨 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/java-1FDA11?style=for-the-badge&logo=java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=MyBatis&logoColor=white">
-    </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
@@ -16,6 +9,13 @@
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+    </div>
+     <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/java-1FDA11?style=for-the-badge&logo=java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=MyBatis&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
