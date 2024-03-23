@@ -9,5 +9,5 @@
 
 <img src="https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-F80000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-<img src="https://img.shields.io/badge/Ajax-F80000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-<img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Ajax-2c83b9?style=for-the-badge&logo=Ajax&logoColor=white"> 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
