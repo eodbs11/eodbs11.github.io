@@ -1,3 +1,4 @@
+## 🔨 SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -30,6 +31,15 @@
     </div>
 </div>
 
+## 🔨 TOOL
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <div>
+        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+        <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">       
+    </div>
+</div>
 
 
 
